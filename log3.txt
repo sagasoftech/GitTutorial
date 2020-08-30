@@ -1,5 +1,4 @@
 error logs
 Offline logs
-log
  
 Changes from temp branch
