@@ -1,7 +1,5 @@
 error logs
 Offline logs
-log
  
 Changes from temp branch
-Conflicts in Master
-Conflicts from temp
+Merge to master
